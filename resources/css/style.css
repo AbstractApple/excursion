@@ -1,8 +1,12 @@
+/* GLOBAL */
+
 body {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
+
+/* HEADINGS */
 
 h1 {
     color: white;
@@ -21,6 +25,8 @@ h4 {
     color: gray;
     font-weight: 300;
 }
+
+/* LINKS */
 
 a {
     color: aquamarine;
